@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color:white;
+}
+
+.modal {
+  text-align: center;
+  height: 100px;
+  background-color: blueviolet;
+  display: none;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
